@@ -40,12 +40,7 @@ google-trends-analysis/
 │
 ├── Google_Trends_Analysis.ipynb
 ├── README.md
-├── requirements.txt
-├── images/
-│   ├── comparison_chart.png
-│   ├── interest_over_time.png
-│   └── regional_analysis.png
-└── data/
+└── dataset
 ```
 
 ---
