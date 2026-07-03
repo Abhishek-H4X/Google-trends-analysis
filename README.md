@@ -64,19 +64,6 @@ Google Trends data is analyzed over time to understand changes in search popular
 
 ---
 
-## 📸 Screenshots
-
-### Interest Over Time
-
-![Interest Over Time](images/interest_over_time.png)
-
-### Keyword Comparison
-
-![Keyword Comparison](images/comparison_chart.png)
-
-### Regional Analysis
-
-![Regional Analysis](images/regional_analysis.png)
 
 ---
 
